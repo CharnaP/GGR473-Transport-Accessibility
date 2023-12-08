@@ -1,6 +1,6 @@
+#Charna Notes: This code was used to create graphs from the data extracted from the Senior's Survey
 #!/usr/bin/env python
 # coding: utf-8
-
 # In[2]:
 
 
